@@ -1,0 +1,26 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(163, 163, 163, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner_popup {
+  position: relative;
+  width: 80%;
+  height: 60vh;
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+} */
